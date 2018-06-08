@@ -6,7 +6,7 @@ public class AdresURL {
 		String adres = 
 		("http://api.openweathermap.org/data/2.5/weather?" + 
 		"id=" + id + 
-		"&units=metric&APPID="+moj_ID) ;	
+		"&units=metric&APPID="+moj_ID);	
 		
 	return adres;
 	}
