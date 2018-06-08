@@ -9,5 +9,6 @@ public class AdresURL {
 		"&units=metric&APPID="+moj_ID);	
 		
 	return adres;
+	
 	}
 }
